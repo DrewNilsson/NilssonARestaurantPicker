@@ -1,0 +1,15 @@
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/bin/Debug/net6.0/NilssonARestaurantPicker
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/bin/Debug/net6.0/NilssonARestaurantPicker.deps.json
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/bin/Debug/net6.0/NilssonARestaurantPicker.runtimeconfig.json
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/bin/Debug/net6.0/NilssonARestaurantPicker.dll
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/bin/Debug/net6.0/NilssonARestaurantPicker.pdb
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/NilssonARestaurantPicker.csproj.AssemblyReference.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/NilssonARestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/NilssonARestaurantPicker.AssemblyInfoInputs.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/NilssonARestaurantPicker.AssemblyInfo.cs
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/NilssonARestaurantPicker.csproj.CoreCompileInputs.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/NilssonARestaurantPicker.dll
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/refint/NilssonARestaurantPicker.dll
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/NilssonARestaurantPicker.pdb
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/NilssonARestaurantPicker.genruntimeconfig.cache
+/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/ref/NilssonARestaurantPicker.dll

@@ -13,3 +13,18 @@
 /Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/NilssonARestaurantPicker.pdb
 /Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/NilssonARestaurantPicker.genruntimeconfig.cache
 /Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/Debug/net6.0/ref/NilssonARestaurantPicker.dll
+C:\Users\leris\NilssonARestaurantPicker\bin\Debug\net6.0\NilssonARestaurantPicker.exe
+C:\Users\leris\NilssonARestaurantPicker\bin\Debug\net6.0\NilssonARestaurantPicker.deps.json
+C:\Users\leris\NilssonARestaurantPicker\bin\Debug\net6.0\NilssonARestaurantPicker.runtimeconfig.json
+C:\Users\leris\NilssonARestaurantPicker\bin\Debug\net6.0\NilssonARestaurantPicker.dll
+C:\Users\leris\NilssonARestaurantPicker\bin\Debug\net6.0\NilssonARestaurantPicker.pdb
+C:\Users\leris\NilssonARestaurantPicker\obj\Debug\net6.0\NilssonARestaurantPicker.csproj.AssemblyReference.cache
+C:\Users\leris\NilssonARestaurantPicker\obj\Debug\net6.0\NilssonARestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leris\NilssonARestaurantPicker\obj\Debug\net6.0\NilssonARestaurantPicker.AssemblyInfoInputs.cache
+C:\Users\leris\NilssonARestaurantPicker\obj\Debug\net6.0\NilssonARestaurantPicker.AssemblyInfo.cs
+C:\Users\leris\NilssonARestaurantPicker\obj\Debug\net6.0\NilssonARestaurantPicker.csproj.CoreCompileInputs.cache
+C:\Users\leris\NilssonARestaurantPicker\obj\Debug\net6.0\NilssonARestaurantPicker.dll
+C:\Users\leris\NilssonARestaurantPicker\obj\Debug\net6.0\refint\NilssonARestaurantPicker.dll
+C:\Users\leris\NilssonARestaurantPicker\obj\Debug\net6.0\NilssonARestaurantPicker.pdb
+C:\Users\leris\NilssonARestaurantPicker\obj\Debug\net6.0\NilssonARestaurantPicker.genruntimeconfig.cache
+C:\Users\leris\NilssonARestaurantPicker\obj\Debug\net6.0\ref\NilssonARestaurantPicker.dll

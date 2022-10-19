@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/drewnilsson/.nuget/packages/": {}
+    "C:\\Users\\leris\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/NilssonARestaurantPicker.csproj",
+      "projectUniqueName": "C:\\Users\\leris\\NilssonARestaurantPicker\\NilssonARestaurantPicker.csproj",
       "projectName": "NilssonARestaurantPicker",
-      "projectPath": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/NilssonARestaurantPicker.csproj",
-      "packagesPath": "/Users/drewnilsson/.nuget/packages/",
-      "outputPath": "/Users/drewnilsson/Documents/CodeStack 22-23/Level1/Assignments/Challenges/NilssonAChallenge1/NilssonARestaurantPicker/NilssonARestaurantPicker/obj/",
+      "projectPath": "C:\\Users\\leris\\NilssonARestaurantPicker\\NilssonARestaurantPicker.csproj",
+      "packagesPath": "C:\\Users\\leris\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leris\\NilssonARestaurantPicker\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/drewnilsson/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\leris\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.401/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
